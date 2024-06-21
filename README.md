@@ -1,0 +1,2 @@
+# Diplom-stenography
+Diplom-stenography
